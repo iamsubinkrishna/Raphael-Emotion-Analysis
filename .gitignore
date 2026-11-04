@@ -1,0 +1,52 @@
+# =====================================
+# RAPHAEL - ROOT GITIGNORE
+# =====================================
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+
+# Android / Gradle
+.gradle/
+**/build/
+**/.kotlin/
+local.properties
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Database and runtime data
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded user files
+RaphaelBackend/uploads/*
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak

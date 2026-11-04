@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raphael</string>
+    <string name="error_fill_fields">Please fill all fields</string>
+    <string name="error_login_failed">Login failed</string>
+    <string name="error_generic">Error: %1$s</string>
+    <string name="error_enter_text">Please enter text to analyze</string>
+    <string name="error_analysis_failed">Analysis failed</string>
+    <string name="error_emotion_detection">Emotion detection failed</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    <string name="sentiment_result">Sentiment: %1$s\nPolarity: %2$.2f\nSubjectivity: %3$.2f</string>
+    <string name="emotion_result_format">%1$s: %.2f%%</string>
+    <string name="camera_permission_code">CAMERA_PERMISSION</string>
+    <string name="analysis">Analysis</string>
+    
+    <!-- Emotion Suggestions -->
+    <string name="suggestion_happy">Great to see you happy! Share your joy with others!</string>
+    <string name="suggestion_sad">It\'s okay to feel down. Consider talking to someone you trust.</string>
+    <string name="suggestion_angry">Take a deep breath. Try counting to 10 slowly.</string>
+    <string name="suggestion_neutral">You seem balanced. A good time for mindfulness.</string>
+    <string name="suggestion_fear">Remember, you\'re stronger than you think. Take small steps.</string>
+    <string name="suggestion_surprise">What an unexpected moment! Take time to process.</string>
+    
+    <!-- Tips Button -->
+    <string name="get_more_tips">Get More Tips</string>
+    <string name="confidence_level">Confidence Level: %1$.1f%%</string>
+</resources>

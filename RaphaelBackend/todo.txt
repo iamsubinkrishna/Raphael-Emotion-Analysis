@@ -1,0 +1,16 @@
+Login
+    - username / email
+    - password
+
+                    response
+                            = json
+                                    username    
+                                    id 
+                                    eamil
+
+signup 
+    - username  
+    - password 
+    - email
+
+
